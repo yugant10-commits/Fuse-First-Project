@@ -3,7 +3,7 @@ This repository contains all the steps involved in predicting property price. Th
 This project is divided into three parts. 
 
 # 1. Data Scraping
-Code for data scraping is contained inside the Data Scraping notebook. 
+Code for data scraping is contained inside the Data Scraping folder. 
 All the data extracted is from the site- https://www.nepalhomes.com/
 
 # 2. EDA and Data Preprocessing
