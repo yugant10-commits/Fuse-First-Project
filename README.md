@@ -15,3 +15,9 @@ Secondly, several rounds of investigations are done on the dataset to test hypot
 Code for experimentation is inside the experimentation notebook. 
 Here, different models and metrics are used to investigate what works best.
 
+
+[Authors]
+Achyut Burlakoti
+Supriya Khadka
+Sangam Chaulagain
+Yugant Ghimire
