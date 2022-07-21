@@ -8,12 +8,12 @@ It also contains the dataset extracted after scraping.
 All the data extracted is from the site- https://www.nepalhomes.com/
 
 # 2. EDA and Data Preprocessing
-Code for EDA and Data Preprocessing is inside the EDA and Data Preprocesing notebook.
+Code for EDA and Data Preprocessing is inside the EDA and Data Preprocesing folder.
 Firstly, the data is processed to form a proper dataset that could be fed to a machine learning model. 
 Secondly, several rounds of investigations are done on the dataset to test hypothesis and examine the necessary bits of the dataset. 
 
 # 3. Experimentation
-Code for experimentation is inside the experimentation notebook. 
+Code for experimentation is inside the experimentation folder. 
 Here, different models and metrics are used to investigate what works best.
 
 
